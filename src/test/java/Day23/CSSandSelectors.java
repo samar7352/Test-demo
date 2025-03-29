@@ -28,6 +28,7 @@ public class CSSandSelectors {
 
         //tag class attribute-->tag.classname[attribute="value"]
         driver.findElement(By.cssSelector("input.search-box-text[name\"q\"]")).sendKeys("T-shirts");
+        //Shahbaz is very good boy
 
 
     }
